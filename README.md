@@ -1,2 +1,2 @@
 # PROJECTS
-My coding projects outside of school
+My coding projects!
