@@ -7,7 +7,7 @@
 * This program controlls an ESP32 WROVER. 
 * With the parts I will wright below it should immulate the blinkers of a car, the headlight of a card, and at which state the car is in(Gas/Break/Still).
 * parts: ESP32 WROVER, Breadboard, Freenove 8 RGB LED Module, Joystick, Jumper F/M x8, Yellow LED x2, Resistor 220Ω x2, Jumper M/M x4. 
-* Here is a link to the youtube video showing the build: https://youtu.be/CejEP-gh_Lk 
+* Here is a link to the youtube video showing the build: https://youtu.be/wTZuMti9LjQ 
 */
 
 // headlight and gas/still/break states LED strip
