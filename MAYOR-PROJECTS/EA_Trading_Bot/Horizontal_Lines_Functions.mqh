@@ -5,9 +5,9 @@
  * Functions that draws and deletes horizontal lines 
  *
  * @version 1.0
- * @date 2024-01-03
+ * @date 2023-12-14
  * 
- * @copyright Copyright (c) 2024
+ * @copyright Copyright (c) 2023
  * 
  */
 

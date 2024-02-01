@@ -4,12 +4,12 @@
  * @brief 
  * This program is an Expert Advisor trading bot that works on the 15 minute timeframe and does automatic trading on the mt4 trading platform.
  * The program defines hard to breach price levels using a point system. 
- * After the price level has been breached the program should and if the price returns to the level enter a trade on specific pattern terms. 
+ * After the price level has been breached the program should (if the price returns to the level) enter a trade on specific pattern terms. 
  * All functions that are not related to handeling the buy order and some specific arrays functions are in the include files. The rest are in the bottom of this file. 
  * @version 1.0
- * @date 2024-01-03
+ * @date 2023-12-14
  * 
- * @copyright Copyright (c) 2024
+ * @copyright Copyright (c) 2023
  * 
  */
 
