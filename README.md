@@ -2,7 +2,7 @@
 
 My first version of a trading bot.
 
-The trading bot is a pattern regocnition program, it identifies mayor price level breakouts and enters trades when price is returning to the mayor price level and show signs of rejection.
+The trading bot is a pattern recognition program, it identifies mayor price level breakouts and enters trades when price is returning to the mayor price level and show signs of rejection.
 
 MQL4 programming language is very similar to C.
 
